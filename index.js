@@ -20,12 +20,12 @@ let data = [
 
   {
     id:3,
-    name: 'fish',
+    name: 'eagle',
   },
 
   {
     id:4,
-    name: 'mamal',
+    name: 'animals',
   }
 
 ]
